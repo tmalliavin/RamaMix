@@ -1,6 +1,10 @@
 # RamaMix
 A finite mixture model for determining populations of conformations from a Ramachandran probability map
 
+RamaMix.tgz contains an archive of the program. Use the Makefile to compile, clean and to run a numerical check. 
+The method is described in a manuscript in preparation: 
+D F\"orster, J Idier, L Liberti, A Mucherino, JH Lin, TE Malliavin. 
+Low-resolution description of the conformational space for intrinsically disordered proteins. 
 
 RamaMix_example.tgz contains an example of calculation. 
 This example of run select the conformations and determine the corresponding populations allowing to optimize
